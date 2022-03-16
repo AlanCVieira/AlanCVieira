@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Alan C. Vieira
 
-- 🔭 I’m currently working on / Hoje trabalho com: Front-end.
-- 🌱 I’m currently learning / Estudando: JS.
+- 🔭 I’m currently working on / Hoje trabalho com: Assistente de implantação e Suporte
+- 🌱 I’m currently learning / Estudando: Estudante Full Stack Web Developer.
+- 🎮 Hobbies: Games, filmes, livros e séries.
 - 😄 Pronouns / Pronomes: Ele/Dele.
 
 <div>
